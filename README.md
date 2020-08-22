@@ -7,3 +7,12 @@
 - Fun fact: I love to draw and ride motorcyles
 
 ### Connect with me:
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />][linkedin]
+
+<br>
+
+### Languages and Tools:
+
+
+
+[linkedin]: https://www.linkedin.com/in/sidharth-panda/
